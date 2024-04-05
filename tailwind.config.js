@@ -8,7 +8,12 @@ export default {
     extend: {
 fontFamily: {
         "poppins": "Poppins",
-        "inter" : "Inter"
+        "inter" : "Inter",
+        "oldenglishtextmt" : ['oldenglishtextmt']
+      },
+      backgroundImage: {
+        advertise:
+          "linear-gradient(rgba(5, 0, 29, 0.80), url('./public/neon-bg.jpg'))",
       },
 },
   },
