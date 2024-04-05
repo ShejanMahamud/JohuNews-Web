@@ -7,28 +7,28 @@ const RightSidebar = () => {
     <div className='w-full font-poppins'>
         <div className='w-full mb-5'>
             <h1 className='font-semibold text-xl mb-4'>Login With</h1>
-            <div className='flex items-center gap-3 border-2 border-blue-500 rounded-lg w-full px-2 py-2 font-medium mb-2'>
+            <button className='flex items-center gap-3 border-2 border-blue-500 rounded-lg w-full px-2 py-2 font-medium mb-2'>
             <FaGoogle className='text-xl text-blue-500'/> <span className='text-blue-500 text-sm'>Login with Google</span>
-            </div>
-            <div className='flex items-center gap-3 border-2 border-[#403F3F] rounded-lg w-full px-2 py-2 font-medium'>
+            </button>
+            <button className='flex items-center gap-3 border-2 border-[#403F3F] rounded-lg w-full px-2 py-2 font-medium'>
             <FaGithubAlt  className='text-xl'/> <span className='text-sm'>Login with Github</span>
-            </div>
+            </button>
         </div>
         <div className='w-full mb-5'>
             <h1 className='font-semibold text-xl mb-4'>Find Us On</h1>
             <div className='border border-[#E7E7E7] rounded-lg w-full'>
-                <div className='flex items-center gap-3 border-b border-[#E7E7E7] py-5 px-3'>
+                <a href='https://www.facebook.com/shejanmahamud.me' className='flex items-center gap-3 border-b border-[#E7E7E7] py-5 px-3'>
                     <img src="facebook.svg" alt="facebook.svg" />
                     <span className='text-[#706F6F] font-medium'>Facebook</span>
-                </div>
-                <div className='flex items-center gap-3 border-b border-[#E7E7E7] py-5 px-3'>
+                </a>
+                <a href='https://www.twitter.com/@shejan_mahamud9' className='flex items-center gap-3 border-b border-[#E7E7E7] py-5 px-3'>
                     <img src="twitter.svg" alt="facebook.svg" />
                     <span className='text-[#706F6F] font-medium'>Twitter</span>
-                </div>
-                <div className='flex items-center gap-3 py-5 px-3'>
+                </a>
+                <a href='https://www.instagram.com/shejanmahamud.me' className='flex items-center gap-3 py-5 px-3'>
                     <img src="instagram.svg" alt="facebook.svg" />
                     <span className='text-[#706F6F] font-medium'>Instagram</span>
-                </div>
+                </a>
             </div>
         </div>
         <div className='w-full bg-[#F3F3F3] py-10 px-3 mb-10'>
