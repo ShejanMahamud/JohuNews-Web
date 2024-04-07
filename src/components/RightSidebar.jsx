@@ -4,7 +4,7 @@ import { FaGithubAlt } from "react-icons/fa6";
 
 const RightSidebar = () => {
   return (
-    <div className='w-full font-poppins'>
+    <div className='w-full font-poppins mt-20 lg:mt-0'>
         <div className='w-full mb-5'>
             <h1 className='font-semibold text-xl mb-4'>Login With</h1>
             <button className='flex items-center gap-3 border-2 border-blue-500 rounded-lg w-full px-2 py-2 font-medium mb-2'>
