@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Modern Single-Family Home",
+    "segment_name": "Single-family Home",
+    "description": "A contemporary single-family home with spacious interiors and a beautiful garden.",
+    "price": "$600,000",
+    "status": "Sale",
+    "area": "2500 sq ft",
+    "location": "Los Angeles, CA",
+    "facilities": ["4 Bedrooms", "3 Bathrooms", "Backyard"],
+    "image": "https://i.ibb.co/9g8SyTD/home-1.jpg"
+  },
+  {
+    "id": 2,
+    "estate_title": "Luxurious Townhouse",
+    "segment_name": "Townhouse",
+    "description": "A luxurious townhouse featuring elegant architecture and upscale amenities.",
+    "price": "$800,000",
+    "status": "Sale",
+    "area": "3000 sq ft",
+    "location": "New York City, NY",
+    "facilities": ["Rooftop Terrace", "Modern Kitchen", "Fitness Center"],
+    "image": "https://i.ibb.co/D5b1RFg/home-2.jpg"
+  },
+  {
+    "id": 3,
+    "estate_title": "City Apartment with Panoramic Views",
+    "segment_name": "Apartment",
+    "description": "A stylish apartment offering stunning city views and convenient urban living.",
+    "price": "$2,500/month",
+    "status": "Rent",
+    "area": "1200 sq ft",
+    "location": "San Francisco, CA",
+    "facilities": ["Balcony", "Fitness Center", "Parking"],
+    "image": "https://i.ibb.co/hC8ZvNd/home-3.jpg"
+  },
+  {
+    "id": 4,
+    "estate_title": "Student Housing Near University Campus",
+    "segment_name": "Student Housing",
+    "description": "Convenient student housing located within walking distance of the university campus.",
+    "price": "$1,200/month",
+    "status": "Rent",
+    "area": "800 sq ft",
+    "location": "Austin, TX",
+    "facilities": ["Study Areas", "Community Events", "Laundry Facilities"],
+    "image": "https://i.ibb.co/kXvrKcL/home-4.jpg"
+  },
+  {
+    "id": 5,
+    "estate_title": "Senior Living Community with Resort Amenities",
+    "segment_name": "Senior Living",
+    "description": "A vibrant senior living community offering resort-style amenities and supportive services.",
+    "price": "$3,500/month",
+    "status": "Rent",
+    "area": "1500 sq ft",
+    "location": "Miami, FL",
+    "facilities": ["Swimming Pool", "Fitness Center", "Restaurant"],
+    "image": "https://i.ibb.co/GMFFgfN/home-5.jpg"
+  },
+  {
+    "id": 6,
+    "estate_title": "Charming Vacation Rental Cottage",
+    "segment_name": "Vacation Rental",
+    "description": "A cozy vacation rental cottage nestled in a picturesque countryside setting.",
+    "price": "$200/night",
+    "status": "Rent",
+    "area": "1000 sq ft",
+    "location": "Asheville, NC",
+    "facilities": ["Private Patio", "Fireplace", "BBQ Grill"],
+    "image": "https://i.ibb.co/CMt1Ndn/home-6.jpg"
+  },
+  {
+    "id": 7,
+    "estate_title": "Contemporary Condo in Urban Center",
+    "segment_name": "Condo",
+    "description": "A sleek and modern condo located in the heart of the city, offering convenience and style.",
+    "price": "$700,000",
+    "status": "Sale",
+    "area": "1600 sq ft",
+    "location": "Chicago, IL",
+    "facilities": ["High-end Finishes", "City Views", "Gym"],
+    "image": "https://i.ibb.co/RSkbBgb/home-7.jpg"
+  },
+  {
+    "id": 8,
+    "estate_title": "Family-Friendly Suburban House",
+    "segment_name": "House",
+    "description": "A spacious suburban house perfect for families, with ample room for relaxation and play.",
+    "price": "$500,000",
+    "status": "Sale",
+    "area": "2200 sq ft",
+    "location": "Denver, CO",
+    "facilities": ["3 Bedrooms", "2 Bathrooms", "Backyard"],
+    "image": "https://i.ibb.co/2jxJrRt/home-8.jpg"
+  },
+  {
+    "id": 9,
+    "estate_title": "Beachfront Vacation Villa",
+    "segment_name": "Vacation Rental",
+    "description": "A luxurious beachfront villa offering unparalleled views and luxurious amenities.",
+    "price": "$1,000/night",
+    "status": "Rent",
+    "area": "3000 sq ft",
+    "location": "Hawaii, HI",
+    "facilities": ["Infinity Pool", "Private Beach Access", "Outdoor Lounge"],
+    "image": "https://i.ibb.co/rd6RZf9/home-9.jpg"
+  }
+]
